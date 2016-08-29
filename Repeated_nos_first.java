@@ -1,5 +1,3 @@
-package codekata;
-
 import java.util.Scanner;
 
 public class Repeated_nos_first {
